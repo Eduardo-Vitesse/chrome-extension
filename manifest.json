@@ -1,0 +1,14 @@
+{
+    "name": "Uppercase",
+    "version": "1.0",
+    "description": "Transform text lowercase to uppercase",
+    "permissions": ["storage"],
+    "author": "Luiz Eduardo Vitesse",
+    "browser_action": {
+        "default_title": "Uppercase Transform",
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+
+    "manifest_version": 2
+}
